@@ -1,0 +1,7 @@
+version: v1
+url: https://example.com
+
+model_args:
+  model: "gpt3.5-turbo"
+  base_url: "https://api.openai.com/v1/chat/completions"
+  api_key: "api_key"

@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Cache files
+.ruff_cache/
+.pytest_cache/
+
+# Virtual environments
+.venv
+
+# IDE files
+.vscode
+
+# Configuration files
+app.local.yaml
+
+# Logs and databases
+work/
